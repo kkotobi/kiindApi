@@ -124,5 +124,4 @@ trait Curl
         return $data;
     }
 
-
 }
